@@ -1,0 +1,57 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    border: 3px solid rgb(0, 0, 255);
+    border-radius: 10px;
+    margin: 10px;
+    padding: 20px;
+    font-size: larger;
+}
+
+header a {
+    border: 3px solid rgb(42, 0, 141);
+    text-decoration: none;
+    border-radius: 5px;
+    background-color: rgb(37, 0, 122);
+    color: oldlace;
+}
+
+h1 i {
+    background-color: #66CDAA;
+    color: rgba(44, 0, 202, 0.801);
+    border: 3px solid navy;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+
+}
+footer p {
+    background-color: rgb(255, 0, 0);
+    padding: 5px;
+}
+    
+.fireworks{
+    background-color: rgb(30, 255, 0);
+    padding: 10px;
+}
+h2 {
+    color: blue;
+    font-size: 30px;
+}
+main {
+    margin: 10px;
+    padding: 10px;
+}
+.contacts {
+    border: 3px solid navy;
+    text-decoration: none;
+    padding: 10px;
+}
+link {
+    
+}
